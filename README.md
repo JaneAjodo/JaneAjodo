@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Jane Ajodo
 
-<!--
-**JaneAjodo/JaneAjodo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Scientist passionate about solving real-world problems through clean data, practical machine learning, and explainable models.
 
-Here are some ideas to get you started:
+Welcome to my GitHub! Here you'll find a collection of projects across customer analytics, finance, business forecasting, and employee evaluation — each designed to reflect not just performance, but clarity and business impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠️ Tools & Technologies
+
+- **Languages:** Python, SQL  
+- **Libraries:** Pandas, Scikit-learn, XGBoost, Matplotlib, Seaborn  
+- **ML Skills:** Classification, Regression, Forecasting, Data Cleaning, Model Evaluation  
+- **Tools:** Jupyter, Excel, Power BI, Git, VS Code
+
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/janeajodo)
+- 📫 [Medium] (https://medium.com/@janeajodo)
+- ✉️ janeajodo@gmail.com
+- 🌐
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=janeajodo&show_icons=true&theme=gruvbox)
