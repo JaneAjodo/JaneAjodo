@@ -16,8 +16,8 @@ Welcome to my GitHub! Here you'll find a collection of projects across customer 
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/janeajodo)
-- 📫 [Medium] (https://medium.com/@janeajodo)
-- ✉️ janeajodo@gmail.com
+- 📫 [Medium](https://medium.com/@janeajodo)
+- ✉️ [Email](janeajodo@gmail.com)
 - 🌐
 
 
