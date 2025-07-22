@@ -19,7 +19,7 @@ Welcome to my GitHub! This is where I showcase hands-on projects that apply mach
 - **Languages:** Python, SQL, R  
 - **Libraries:** Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn, TensorFlow, PyTorch
 - **Machine Learning:** Classification, Regression, Clustering, Forecasting, PCA  
-- **Deployment:** AWS,Streamlit, Heroku, Git, Jupyter, Google Colab  
+- **Deployment:** Flask, AWS,Streamlit, Heroku, Git, Jupyter, Google Colab  
 - **Visualization:** Power BI, Tableau  
 - **Engineering:** Web Scraping (BeautifulSoup, Requests), APIs  
 
