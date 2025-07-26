@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jane Ajodo
 
-I'm a **Data Scientist | Machine Learning Engineer | Data Analyst** with a passion for turning complex data into intelligent, automated solutions. I specialize in building explainable models, deploying ML solutions, and using AI to solve real-world problems.
+I'm a **Data Analyst | Data Scientist | Machine Learning Engineer** with a passion for turning complex data into intelligent, automated solutions. I specialize in building explainable models, deploying ML solutions, and using AI to solve real-world problems.
 
 Welcome to my GitHub! This is where I showcase hands-on projects that apply machine learning, predictive modeling, and analytics to domains like customer insights, retail forecasting, and operational efficiency.
 
