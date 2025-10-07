@@ -1,41 +1,45 @@
-# 👋 Hi, I'm Jane Ajodo
+# 👋 Hi, I'm Jane Ajodo  
 
-I'm a **Data Analyst | Data Scientist | Machine Learning Engineer** with a passion for turning complex data into intelligent, automated solutions. I specialize in building explainable models, deploying ML solutions, and using AI to solve real-world problems.
+I'm an **AI Engineer | Machine Learning Engineer | Data Scientist** passionate about building intelligent systems that bridge **data, automation, and human insight**. I specialize in **Large Language Models (LLMs)**, **Generative AI**, and **end-to-end machine learning solutions** — from data preprocessing to deployment.  
 
-Welcome to my GitHub! This is where I showcase hands-on projects that apply machine learning, predictive modeling, and analytics to domains like customer insights, retail forecasting, and operational efficiency.
+Welcome to my GitHub! 🚀  
+Here, you’ll find hands-on projects where I apply **AI, NLP, and ML techniques** to solve real-world problems across domains like customer intelligence, business forecasting, and process automation.  
 
+---
 
-## 🧠 What I Do
+## 🧠 What I Do  
 
-- Build and evaluate ML models (Regression, Classification, Clustering)
-- Automate workflows with Python and APIs
-- Develop dashboards and visual insights using Power BI and Tableau
-- Deploy models using Streamlit, Heroku, and cloud-ready tools
-- Apply machine learning techniques for intelligent decision support
+- Build and fine-tune LLMs for chatbots, text summarization, and context-aware retrieval (RAG).  
+- Design and evaluate ML models (Classification, Forecasting, Recommendation, Clustering).  
+- Develop AI dashboards and applications using **Streamlit**, **Flask**, and **LangChain**.  
+- Automate workflows with **Python**, **APIs**, and **cloud-based deployment**.  
+- Visualize insights and predictions using **Power BI**, **Tableau**, and **Python**.  
 
+---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies  
 
 - **Languages:** Python, SQL, R  
-- **Libraries:** Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn, TensorFlow, PyTorch
-- **Machine Learning:** Classification, Regression, Clustering, Forecasting, PCA  
-- **Deployment:** Flask, AWS,Streamlit, Heroku, Git, Jupyter, Google Colab  
-- **Visualization:** Power BI, Tableau  
-- **Engineering:** Web Scraping (BeautifulSoup, Requests), APIs  
+- **AI & LLM Frameworks:** LangChain, Hugging Face Transformers, OpenAI API, LlamaIndex  
+- **Libraries:** Pandas, NumPy, Scikit-learn, XGBoost, TensorFlow, PyTorch  
+- **Machine Learning:** Classification, Regression, Clustering, Forecasting, NLP, RAG  
+- **Deployment:** Streamlit, Flask, Docker, AWS (SageMaker, EC2), GitHub Actions  
+- **Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
+- **Engineering:** Web Scraping (BeautifulSoup, Requests), APIs, Prompt Engineering  
 
+---
 
-## 🧾 Certifications
+## 🧾 Certifications  
 
 - 🧪 IBM Data Science Professional Certificate  
 - 📊 Google Data Analytics Professional Certificate  
 
+---
 
-
-## 📫 Let's Connect
+## 📫 Let's Connect  
 
 - 💼 [LinkedIn](https://linkedin.com/in/janeajodo)  
 - ✍️ [Medium](https://medium.com/@janeajodo)  
-- 📧 [janeajodo@gmail.com](mailto:janeajodo@gmail.com)
-
+- 📧 [janeajodo@gmail.com](mailto:janeajodo@gmail.com)  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=janeajodo&show_icons=true&theme=gruvbox)
