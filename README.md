@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jane Ajodo  
 
-I'm a **Data Analyst| Data Scientist | Machine Learning Engineer | AI Engineer** passionate about building intelligent systems that bridge **data, automation, and human insight**. I specialize in **Large Language Models (LLMs)**, **Generative AI**, and **end-to-end machine learning solutions** — from data preprocessing to deployment.  
+I'm a **Data Analyst | Data Scientist | Machine Learning Engineer | AI Engineer** passionate about building intelligent systems that bridge **data, automation, and human insight**. I specialize in **Large Language Models (LLMs)**, **Generative AI**, and **end-to-end machine learning solutions** — from data preprocessing to deployment.  
 
 Welcome to my GitHub! 🚀  
 Here, you’ll find hands-on projects where I apply **AI, NLP, and ML techniques** to solve real-world problems across domains like customer intelligence, business forecasting, and process automation.  
