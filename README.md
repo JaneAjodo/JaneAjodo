@@ -1,45 +1,78 @@
-# 👋 Hi, I'm Jane Ajodo  
+# 👋 Hi, I'm Jane Ajodo
 
-I'm a **Data Analyst | Data Scientist | Machine Learning Engineer | AI Engineer** passionate about building intelligent systems that bridge **data, automation, and human insight**. I specialize in **Large Language Models (LLMs)**, **Generative AI**, and **end-to-end machine learning solutions** — from data preprocessing to deployment.  
+**AI/ML Engineer · LLM Specialist · Data Scientist**
 
-Welcome to my GitHub! 🚀  
-Here, you’ll find hands-on projects where I apply **AI, NLP, and ML techniques** to solve real-world problems across domains like customer intelligence, business forecasting, and process automation.  
+Passionate about building intelligent systems that bridge **data, automation, and human insight**. I specialize in **Large Language Models (LLMs)**, **Generative AI**, and end-to-end machine learning solutions — from data preprocessing to deployment.
 
----
-
-## 🧠 What I Do  
-
-- Build and fine-tune LLMs for chatbots, text summarization, and context-aware retrieval (RAG).  
-- Design and evaluate ML models (Classification, Forecasting, Recommendation, Clustering).  
-- Develop AI dashboards and applications using **Streamlit**, **Flask**, and **LangChain**.  
-- Automate workflows with **Python**, **APIs**, and **cloud-based deployment**.  
-- Visualize insights and predictions using **Power BI**, **Tableau**, and **Python**.  
+Welcome to my GitHub! 🚀 Here you'll find hands-on projects where I apply **AI, NLP, and ML techniques** to solve real-world problems across customer intelligence, business forecasting, and process automation.
 
 ---
 
-## 🛠️ Tools & Technologies  
+## 🧠 What I Do
 
-- **Languages:** Python, SQL, R  
-- **AI & LLM Frameworks:** LangChain, Hugging Face Transformers, OpenAI API, LlamaIndex  
-- **Libraries:** Pandas, NumPy, Scikit-learn, XGBoost, TensorFlow, PyTorch  
-- **Machine Learning:** Classification, Regression, Clustering, Forecasting, NLP, RAG  
-- **Deployment:** Streamlit, Flask, Docker, AWS (SageMaker, EC2), GitHub Actions  
-- **Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
-- **Engineering:** Web Scraping (BeautifulSoup, Requests), APIs, Prompt Engineering  
+- Build and fine-tune LLMs for chatbots, text summarization, and context-aware retrieval (RAG)
+- Design and evaluate ML models — Classification, Forecasting, Recommendation, Clustering
+- Develop AI dashboards and applications using **Streamlit**, **Flask**, and **LangChain**
+- Automate workflows with **Python**, **APIs**, and cloud-based deployment
+- Visualize insights and predictions using **Power BI**, **Tableau**, and **Python**
 
 ---
 
-## 🧾 Certifications  
+## 🛠️ Tools & Technologies
 
-- 🧪 IBM Data Science Professional Certificate  
-- 📊 Google Data Analytics Professional Certificate  
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+
+**AI & LLM Frameworks**
+
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6B46C1?style=flat)
+
+**ML Libraries**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+
+**Deployment & Cloud**
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+**Visualization**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
+
+**Engineering**
+
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-59666C?style=flat)
+![APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8B5CF6?style=flat)
 
 ---
 
-## 📫 Let's Connect  
+## 🧾 Certifications
 
-- 💼 [LinkedIn](https://linkedin.com/in/janeajodo)  
-- ✍️ [Medium](https://medium.com/@janeajodo)  
-- 📧 [janeajodo@gmail.com](mailto:janeajodo@gmail.com)  
+- 🧪 IBM Data Science Professional Certificate
+- 📊 Google Data Analytics Professional Certificate
+- 🤖 AI Engineer for Data Scientists Associate — DataCamp
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=janeajodo&show_icons=true&theme=gruvbox)
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-janeajodo-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/janeajodo)
+[![Medium](https://img.shields.io/badge/Medium-@janeajodo-000000?style=flat&logo=medium)](https://medium.com/@janeajodo)
+[![Email](https://img.shields.io/badge/Email-janeajodo%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:janeajodo@gmail.com)
